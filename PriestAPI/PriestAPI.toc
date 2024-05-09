@@ -1,0 +1,9 @@
+## Interface: 80200
+## Title: PriestAPI
+## Author: István Biró
+## Version: 0.1
+## IconTexture: 237542
+
+PriestAPI.lua
+PriestAPIEquipment.lua
+PriestAPIUtil.lua
